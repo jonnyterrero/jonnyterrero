@@ -5,9 +5,9 @@
 ---
 
 ## 🔬 About Me  
-- 🎓 Studying Bioengineering, minors in Chemistry & Mathematics  
-- 💻 Interests: Full-stack dev, data science, systems/process engineering  
-- ⚗️ Passionate about bridging engineering, coding, and healthcare applications  
+- 🎓 Studying Bioengineering, minoring in Chemistry & Computer Science 
+- 💻 Interests: Full-stack dev, data science, computational Chemistry, systems/process engineering  
+- ⚗️ Passionate about bridging engineering, coding, chemistry, and healthcare applications  
 - 🥋 MMA & Powerlifting — the same discipline I bring to engineering projects  
 - ✝️ Orthodox Christian, grounded in faith and growth  
 - 🎌 Anime inspires my creativity (Fullmetal Alchemist, One Piece, Naruto)  
