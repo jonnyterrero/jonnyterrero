@@ -1,6 +1,6 @@
 # 👋 Hey, I’m **Jonny Terrero**  
 
-**Bioengineering Student | Powerlifting & MMA | Computational Chemistry | Orthodox Christian | Aspiring Renaissance Man**
+Orthodox Christian | Bioengineering Student | Computational Chemistry | Powerlifting & MMA | Aspiring Renaissance Man
 
 ---
 
@@ -13,7 +13,7 @@
 ---
 
 ## 🔬 About Me  
-- 🎓 **Bioengineering major** with minors in **Chemistry** and **Mathematics / Computer Science**  
+- 🎓 **Bioengineering major** with minoring in Chemistry and Mathematics / Computer Science  
 - 💻 Building a **health-tech ecosystem** of intelligent apps that connect mind, body, and data  
 - ⚗️ Exploring **computational chemistry**, **biomedical systems modeling**, and **AI in healthcare**  
 - 🧠 Fusing **hardware + software + physiology** — from Arduino biosensors to predictive analytics  
