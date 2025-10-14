@@ -5,11 +5,11 @@
 ---
 
 ## 🔬 About Me  
+- ✝️ Orthodox Christian, grounded in faith and growth Leviticus 19:18
 - 🎓 Studying **Bioengineering**, minoring in **Chemistry** & **Computer Science**  
 - 💻 Interests: Full-stack development, data science, computational chemistry, systems/process engineering  
 - ⚗️ Passionate about bridging **engineering, coding, chemistry, and healthcare applications**  
 - 🥋 MMA & Powerlifting — the same discipline I bring to engineering projects  
-- ✝️ Orthodox Christian, grounded in faith and growth  
 - 🎌 Anime inspires my creativity (*Fullmetal Alchemist, One Piece, Naruto, Legend of Korra*)  
 
 ---
