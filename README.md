@@ -1,25 +1,50 @@
 # 👋 Hey, I’m **Jonny Terrero**  
 
-Orthodox Christian | Bioengineering Student | Computational Chemistry | Powerlifting & MMA | Aspiring Renaissance Man
-
----
-
-## 🧠 Currently Working On  
-
-- 🩸 **CGM + Arduino Integration Project** — improving real-time continuous glucose monitoring (Libre 3+ & Dexcom G7) with smart ML feedback  
-- 🧬 **Health Helper** — a **comprehensive, holistic, AI-driven health app** combining **GastroGuard, SkinTrack+, MindMap, Sleep & Stress Tracker, and Nutrition Predictor** into one connected ecosystem  
-- 🎵 **Soundly** — your **AI-powered music buddy** that learns your mood, recovery state, and emotional patterns to recommend songs intelligently  
+**Bioengineering Student | MMA & Powerlifting | Computational Chemistry | Orthodox Christian | Aspiring Renaissance Man**
 
 ---
 
 ## 🔬 About Me  
-- 🎓 **Bioengineering major** with minoring in Chemistry and Mathematics / Computer Science  
-- 💻 Building a **health-tech ecosystem** of intelligent apps that connect mind, body, and data  
-- ⚗️ Exploring **computational chemistry**, **biomedical systems modeling**, and **AI in healthcare**  
-- 🧠 Fusing **hardware + software + physiology** — from Arduino biosensors to predictive analytics  
-- 🥋 Discipline forged in **MMA and powerlifting** — applied equally in engineering, faith, and life  
-- ✝️ **Orthodox Christian**, grounded in logic, compassion, and purpose  
-- 🎌 Inspired by anime legends: *Edward Elric, Zoro, Killer Bee, Zaheer* — strength with reason  
+- 🎓 Studying **Bioengineering**, minoring in **Chemistry** & **Computer Science**  
+- 💻 Interests: Full-stack development, data science, computational chemistry, systems/process engineering  
+- ⚗️ Passionate about bridging **engineering, coding, chemistry, and healthcare applications**  
+- 🥋 MMA & Powerlifting — the same discipline I bring to engineering projects  
+- ✝️ Orthodox Christian, grounded in faith and growth  
+- 🎌 Anime inspires my creativity (*Fullmetal Alchemist, One Piece, Naruto, Legend of Korra*)  
+
+---
+
+## 🧠 Currently Building  
+- 🧬 **Health Helper** — a **comprehensive, holistic, AI-driven health app** connecting nutrition, mood, and symptom data across multiple modules (*GastroGuard, SkinTrack+, MindMap, Sleep+Stress Tracker, and Nutrition Predictor*)  
+- 🩸 **CGM + Arduino Integration Project** — improving real-time continuous glucose monitoring (Libre 3+ & Dexcom G7) with smart ML feedback  
+- 🎵 **Soundly** — your **AI-powered music buddy**, designed to understand your mood, recovery state, and emotional patterns to recommend intelligently  
+
+---
+
+## 💡 Projects  
+- 🧪 **GastroGuard** — tracks gut health and dietary triggers using ML-based predictions  
+- 🧠 **MindMap** — correlates sleep, stress, and mood patterns with physical health  
+- 🩺 **SkinTrack+** — image-based skin tracking with AI lesion detection and progression monitoring  
+- 💤 **Sleep+Stress Tracker** — predictive modeling for fatigue and mental health correlations  
+- ⚙️ **Circuits + ODEs** — MATLAB & Python solutions for applied engineering analysis  
+- 🔋 **LTO Battery Systems** — designing high-discharge 6S4P Li-Titanate banks for car audio  
+
+---
+
+## 🧩 LeetCode Progress  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/jterrero16?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/jterrero16/)
+
+---
+
+## 📈 GitHub Stats  
+
+![Jonny’s GitHub stats](https://github-readme-stats.vercel.app/api?username=jonnyterrero&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonnyterrero&layout=compact&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=jonnyterrero&theme=tokyonight&hide_border=true)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jonnyterrero&color=blueviolet&style=for-the-badge" alt="profile views"/>
+</p>
 
 ---
 
@@ -39,35 +64,11 @@ Orthodox Christian | Bioengineering Student | Computational Chemistry | Powerlif
 
 ---
 
-## 🚀 Projects  
-
-📌 **Pinned Repositories:**  
-- 🧠 **MindMap** → Mental-health dashboard correlating mood, sleep, stress & symptoms  
-- 🧪 **GastroGuard** → Gut-health tracker with ML-based flare prediction  
-- 🩺 **SkinTrack+** → AI dermatology analyzer using image-color metrics & lesion tracking  
-- 💤 **Sleep & Stress Tracker** → Correlates rest, anxiety, and daily performance  
-- ⚙️ **Circuits + ODEs** → MATLAB + Python solutions for applied engineering analysis  
-- 🔋 **LTO Battery Systems** → Designing high-discharge 6S4P Li-Titanate banks for car audio  
-
----
-
-## 📊 GitHub Stats  
-
-![Jonny’s GitHub stats](https://github-readme-stats.vercel.app/api?username=jonnyterrero&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonnyterrero&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=jonnyterrero&theme=tokyonight&hide_border=true)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jonnyterrero&color=blueviolet&style=for-the-badge" alt="profile views"/>
-</p>
-
----
-
 ## 🤝 Let’s Connect  
 
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jterrero16@outlook.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-terrero-467ba620b/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/JuicedupJonnyy)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/JuicedupJonnyy)  
 
 ---
 
