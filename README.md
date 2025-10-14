@@ -1,6 +1,6 @@
 # 👋 Hey, I’m **Jonny Terrero**  
 
-**Bioengineering Student | MMA & Powerlifting | Computational Chemistry | Orthodox Christian | Aspiring Renaissance Man**
+** | Orthodox Christian | Bioengineering Student | MMA & Powerlifting | Computational Chemistry | Aspiring Renaissance Man |**
 
 ---
 
