@@ -28,7 +28,7 @@
 - 💤 **Sleep+Stress Tracker** — predictive modeling for fatigue and mental health correlations  
 - ⚙️ **Circuits + ODEs** — MATLAB & Python solutions for applied engineering analysis  
 
-- ![Metrics](./metrics.svg)
+
 
 ---
 
@@ -47,6 +47,7 @@
   <img src="https://komarev.com/ghpvc/?username=jonnyterrero&color=blueviolet&style=for-the-badge" alt="profile views"/>
 </p>
 
+- ![Metrics](./metrics.svg)
 ---
 
 ## 🛠️ Tech & Tools  
