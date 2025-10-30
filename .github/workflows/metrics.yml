@@ -1,0 +1,48 @@
+name: Update Metrics Card
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:        # lets you run it manually
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # This token allows committing the generated file to your repo
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Where to save the image in your repo (root by default)
+          filename: metrics.svg
+
+          # Your username
+          user: jonnyterrero
+
+          # Look & base sections
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: America/New_York
+
+          # --- WakaTime (coding activity) ---
+          plugin_wakatime: yes
+          plugin_wakatime_user: jonnyterrero         # Your WakaTime username (check WakaTime profile)
+          plugin_wakatime_token: ${{ secrets.waka_a3cae572-489a-4d92-90b7-ca9f0b0c3fd6 }}
+          plugin_wakatime_sections: time, languages, editors
+          plugin_wakatime_days: 7
+          plugin_wakatime_limit: 5
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_repositories_visibility: all
+
+          # --- Pull Requests (recent PRs you opened/merged) ---
+          plugin_prs: yes
+          plugin_prs_limit: 5
+
+          # --- Blog posts via RSS ---
+          plugin_posts: yes
+          plugin_posts_source: rss
+          plugin_posts_limit: 3
+          plugin_posts_description: yes
+          plugin_posts_covers: yes
+          plugin_posts_url: https://substack.com/@juicedupjonnyy?
