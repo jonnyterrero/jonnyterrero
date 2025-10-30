@@ -1,6 +1,7 @@
-jonnyterrero/
- ├─ README.md
- └─ .github/
-     └─ workflows/
-         ├─ update-readme.yml
-         ├─ metrics.yml           ← (optional WakaTime & stats card)
+jonnyterrero/                      ← your profile repo
+├─ README.md                       ← your profile page (add: ![Metrics](./metrics.svg))
+└─ .github/
+   └─ workflows/
+      ├─ update-readme.yml         ← (your recent projects/commits workflow)
+      └─ metrics.yml               ← (this file: WakaTime, PRs, blog posts → metrics.svg)
+
