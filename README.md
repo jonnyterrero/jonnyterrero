@@ -27,7 +27,8 @@
 - 🩺 **SkinTrack+** — image-based skin tracking with AI lesion detection and progression monitoring  
 - 💤 **Sleep+Stress Tracker** — predictive modeling for fatigue and mental health correlations  
 - ⚙️ **Circuits + ODEs** — MATLAB & Python solutions for applied engineering analysis  
-- 🔋 **LTO Battery Systems** — designing high-discharge 6S4P Li-Titanate banks for car audio  
+
+- ![Metrics](./metrics.svg)
 
 ---
 
