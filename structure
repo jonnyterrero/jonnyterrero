@@ -1,0 +1,6 @@
+jonnyterrero/
+ ├─ README.md
+ └─ .github/
+     └─ workflows/
+         ├─ update-readme.yml
+         ├─ metrics.yml           ← (optional WakaTime & stats card)
