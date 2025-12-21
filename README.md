@@ -1,43 +1,61 @@
-# 👋 Hey, I’m **Jonny Terrero**  
+👋 Hey, I’m Jonny Terrero
 
-** | Orthodox Christian | Bioengineering Student | MMA & Powerlifting | Computational Chemistry | Aspiring Renaissance Man |**
+Orthodox Christian | Bioengineering Student | Computational Chemistry | Software & Systems Engineering | MMA & Powerlifting
+
+–––––––––––––––––––––––––––––––––––
+
+🔬 About Me
+
+✝️ Orthodox Christian, grounded in faith, discipline, and personal growth (Leviticus 19:18)
+
+🎓 Studying Bioengineering with minors in Chemistry and Computer Science
+
+💻 Interests include full-stack development, data science, computational chemistry, and systems engineering
+
+⚗️ Passionate about bridging engineering, coding, chemistry, and healthcare applications
+
+🥋 MMA and Powerlifting — the same discipline and consistency I bring to engineering projects
+
+🎌 Creative inspiration from anime and long-form storytelling (Fullmetal Alchemist, One Piece, Naruto, The Legend of Korra)
+
+–––––––––––––––––––––––––––––––––––
+
+🧠 Currently Building
+
+🧬 Health Helper
+A comprehensive, modular, AI-driven health platform designed to connect nutrition, mood, symptoms, and lifestyle data into actionable insights.
+
+🩸 CGM + Embedded Systems Project:
+Exploring real-time physiological data integration using embedded hardware and machine-learning-assisted feedback loops.
+
+🎵 Soundly"
+An AI-powered music and mood platform designed to adapt recommendations based on emotional state, recovery, and behavioral patterns.
+
+–––––––––––––––––––––––––––––––––––
+
+💡 Projects
+
+🧪 GastroGuard: gut health analytics and ML-based dietary prediction
+
+🧠 MindMap: sleep, stress, and mood correlation modeling
+
+🩺 SkinTrack+: AI-assisted skin monitoring and progression tracking
+
+💤 Sleep + Stress Tracker: fatigue and recovery modeling
+
+⚙️ Circuits + ODEs: MATLAB and Python solutions for applied engineering analysis
+
+Each project emphasizes clear documentation, step-by-step reasoning, and long-term maintainability.
+
 
 ---
 
-## 🔬 About Me  
-- ✝️ Orthodox Christian, grounded in faith and growth Leviticus 19:18
-- 🎓 Studying **Bioengineering**, minoring in **Chemistry** & **Computer Science**  
-- 💻 Interests: Full-stack development, data science, computational chemistry, systems/process engineering  
-- ⚗️ Passionate about bridging **engineering, coding, chemistry, and healthcare applications**  
-- 🥋 MMA & Powerlifting — the same discipline I bring to engineering projects  
-- 🎌 Anime inspires my creativity (*Fullmetal Alchemist, One Piece, Naruto, Legend of Korra*)  
-
----
-
-## 🧠 Currently Building  
-- 🧬 **Health Helper** — a **comprehensive, holistic, AI-driven health app** connecting nutrition, mood, and symptom data across multiple modules (*GastroGuard, SkinTrack+, MindMap, Sleep+Stress Tracker, and Nutrition Predictor*)  
-- 🩸 **CGM + Arduino Integration Project** — improving real-time continuous glucose monitoring (Libre 3+ & Dexcom G7) with smart ML feedback  
-- 🎵 **Soundly** — your **AI-powered music buddy**, designed to understand your mood, recovery state, and emotional patterns to recommend intelligently  
-
----
-
-## 💡 Projects  
-- 🧪 **GastroGuard** — tracks gut health and dietary triggers using ML-based predictions  
-- 🧠 **MindMap** — correlates sleep, stress, and mood patterns with physical health  
-- 🩺 **SkinTrack+** — image-based skin tracking with AI lesion detection and progression monitoring  
-- 💤 **Sleep+Stress Tracker** — predictive modeling for fatigue and mental health correlations  
-- ⚙️ **Circuits + ODEs** — MATLAB & Python solutions for applied engineering analysis  
-
-
-
----
-
-## 🧩 LeetCode Progress  
+🧩 LeetCode Progress  
 [![LeetCode Stats](https://leetcard.jacoblin.cool/jterrero16?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/jterrero16/)
 
 ---
 
-## 📈 GitHub Stats  
+📈 GitHub Stats  
 
 ![Jonny’s GitHub stats](https://github-readme-stats.vercel.app/api?username=jonnyterrero&show_icons=true&theme=tokyonight&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonnyterrero&layout=compact&theme=tokyonight&hide_border=true)  
@@ -50,7 +68,7 @@
 - ![Metrics](./metrics.svg)
 ---
 
-## 🛠️ Tech & Tools  
+ 🛠️ Tech & Tools  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)
@@ -66,7 +84,7 @@
 
 ---
 
-## 🤝 Let’s Connect  
+🤝 Let’s Connect  
 
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jterrero16@outlook.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-terrero-467ba620b/)  
@@ -74,9 +92,9 @@
 
 ---
 
-## ⚡ Fun Fact  
-When I’m not coding or in the lab, I’m either **rolling on the mats**, **under a barbell**, or **building something new**.  
-**Precision + Discipline = Freedom.**
+⚡ Fun Fact  
+When I’m not coding or in the lab, I’m either rolling on the mats, under a barbell, or building something new.  
+Precision + Discipline = Freedom.
 
 ---
 
