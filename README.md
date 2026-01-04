@@ -121,6 +121,16 @@ MATLAB & Python solutions for circuits, ODEs, and applied engineering analysis.
   <img src="https://komarev.com/ghpvc/?username=jonnyterrero&color=blueviolet&style=for-the-badge" />
 </p>
 
+### 🔄 Recent Activity
+
+<!--RECENT_START-->
+<!--RECENT_END-->
+
+### 📝 Recent Commits
+
+<!--COMMITS_START-->
+<!--COMMITS_END-->
+
 ---
 
 ## 📊 Engineering Metrics (GitHub Actions)
