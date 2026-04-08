@@ -1,173 +1,142 @@
-<!-- ================= ANIMATED INTRO ================= -->
+<div align="center">
+
+# Jonny Terrero
+
+**Biomedical Engineering · Systems Builder · AI**
+
+Building connected health intelligence systems — from sensors to full-stack platforms.
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jonnyterrero)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jonnyterrero)
+
+</div>
+
+---
+
+## System Identity
+
+I'm a Biomedical Engineering student (Chemistry + Math minors) who treats every project like production infrastructure. My work sits at the intersection of **biomedical systems, full-stack software, embedded hardware, and AI** — with a long-term focus on building a unified health intelligence platform.
+
+I don't build demos. I build deployable systems with clean architecture, real data pipelines, and observable behavior.
+
+---
+
+## Ecosystem Architecture
+
+```mermaid
+flowchart LR
+    A[Jonny Terrero<br/>Bioengineering · Systems · AI] --> C[Project Ecosystem]
+    A --> D[Engineering Stack]
+    A --> E[Live Metrics]
+
+    C --> C1[HealthHelper<br/>Unified health intelligence hub]
+    C --> C2[GastroGuard<br/>GI tracking + dietary correlations]
+    C --> C3[MindMap<br/>Mood, sleep, stress analytics]
+    C --> C4[SkinTrack+<br/>Skin progression tracking]
+
+    D --> D1[Python]
+    D --> D2[TypeScript / Next.js]
+    D --> D3[C/C++ / Arduino]
+    D --> D4[MATLAB]
+    D --> D5[Supabase / PostgreSQL]
+    D --> D6[ML + Data Pipelines]
+
+    C1 --> F[Unified AI Health Platform]
+    C2 --> F
+    C3 --> F
+    C4 --> F
+```
+
+Every project feeds into a single vision: a modular, AI-driven health ecosystem where tracking, analytics, and recommendations converge.
+
+---
+
+## Featured Systems
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| **HealthHelper** | Next.js · Supabase · AI | Unified health intelligence hub — the platform layer connecting all health apps |
+| **GastroGuard** | Python · Arduino · Supabase · PostgreSQL | Gut health tracker with hardware sensors, layered analytics pipeline, and ML-ready feature engineering |
+| **MindMap** | Next.js · Supabase · Prisma | Mood, sleep, and stress analytics with RLS-secured data and longitudinal insights |
+| **SkinTrack+** | React Native · Computer Vision | Skin condition progression tracking through image capture and analysis |
+| **5amClub** | Next.js 14 · Supabase · Vercel | Knowledge + productivity OS integrated with Notion and GitHub |
+| **Soundly** | React Native · Next.js | Music discovery and social listening platform |
+| **JonnyJr** | OpenAI Agents SDK · Python · Docker | Multi-agent AI co-pilot (Orchestrator → Planner → Coder → Researcher) with GitHub, Supabase, Notion, and Claude integrations |
+| **Robotic Arm** | Arduino · C++ · HC-SR04 | 4-axis FSM-based autonomous pick-and-place system with ultrasonic sensing |
+
+---
+
+## Engineering Stack
+
+**Languages**
+`Python` · `TypeScript` · `JavaScript` · `C/C++` · `MATLAB` · `SQL`
+
+**Frameworks & Platforms**
+`Next.js 14` · `React Native` · `Supabase` · `Prisma` · `Vercel`
+
+**AI & Data**
+`OpenAI Agents SDK` · `Claude API` · `Perplexity Sonar` · `NumPy` · `SciPy` · `SymPy` · `Matplotlib`
+
+**Infrastructure**
+`Docker` · `Proxmox` · `WireGuard` · `GitHub Actions` · `Make.com`
+
+**Hardware**
+`Arduino` · `Servo Systems` · `HC-SR04 Ultrasonic` · `Sensor Integration` · `KiCad (upcoming)`
+
+---
+
+## Live Metrics
+
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=24&duration=3500&pause=1200&color=C084FC&center=true&vCenter=true&width=760&lines=Jonny+Terrero;Bioengineering+%7C+Computational+Science;Software+%26+Systems+Engineering;Precision+%2B+Discipline+%3D+Freedom"
-    alt="Typing SVG"
-  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonnyterrero&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonnyterrero&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-Orthodox Christian • Builder • Engineer
+  <img height="180em" src="https://streak-stats.demolab.com?user=jonnyterrero&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 🔬 About Me
-
-✝️ **Orthodox Christian**, grounded in faith, discipline, and responsibility  
-> *“Love your neighbor as yourself.” — Leviticus 19:18*
-
-🎓 **Bioengineering major** with minors in **Chemistry** and **Computer Science**
-
-💻 Focused on **full-stack systems**, **machine learning**, **computational chemistry**, and **healthcare tooling**
-
-⚗️ Passionate about connecting **engineering + code + chemistry + biology** into real, usable systems
-
-🥋 **MMA & Powerlifting** — applied discipline, resilience, and consistency
-
-🎌 Creative inspiration from long-form storytelling  
-(*Fullmetal Alchemist, One Piece, Naruto, The Legend of Korra*)
-
----
-
-## 🧠 Currently Building
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧬 HealthHelper  
-A modular, AI-assisted health platform connecting symptoms, nutrition, mood, and lifestyle data into actionable insights.
-
-</td>
-<td width="50%" valign="top">
-
-### 🎵 Soundly  
-An AI-powered music + mood platform adapting recommendations based on emotional state, recovery, and behavioral patterns.
-
-</td>
-</tr>
-</table>
-
----
-
-## 💡 Project Highlights
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<img src="./assets/gastroguard.png" alt="GastroGuard" />
-<h4>🧪 GastroGuard</h4>
-Gut health analytics with ML-based dietary prediction and symptom modeling.
-</td>
-
-<td width="50%" valign="top">
-<img src="./assets/mindmap.png" alt="MindMap" />
-<h4>🧠 MindMap</h4>
-Sleep, stress, and mood correlation modeling with visual analytics.
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-<img src="./assets/skintrack.png" alt="SkinTrack+" />
-<h4>🩺 SkinTrack+</h4>
-AI-assisted skin monitoring and progression tracking.
-</td>
-
-<td width="50%" valign="top">
-<img src="./assets/engineering.png" alt="Engineering Toolkit" />
-<h4>⚙️ Engineering Toolkit</h4>
-MATLAB & Python solutions for circuits, ODEs, and applied engineering analysis.
-</td>
-</tr>
-</table>
-
----
-
-## 🧪 Research • Papers • Notes
-
-- **Computational Chemistry**  
-  Quantum methods, molecular modeling, numerical solvers
-
-- **Biomedical Engineering**  
-  Biomaterials, physiological systems, transport phenomena
-
-- **Mathematics & Signals**  
-  ODEs, linear systems, Laplace methods, circuit theory
-
-- **Engineering Documentation**  
-  Step-by-step derivations, validated solutions, reproducible workflows
-
-> Research-driven, citation-aware, and built for long-term reuse.
-
----
-
-## 🧩 LeetCode Progress (Auto-Updating)
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/jterrero16?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/jterrero16/)
-
----
-
-## 📈 GitHub Activity (Auto-Updating)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonnyterrero&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonnyterrero&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=jonnyterrero&theme=tokyonight&hide_border=true)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jonnyterrero&color=blueviolet&style=for-the-badge" />
+  <img height="220em" src="https://leetcard.jacoblin.cool/jterrero16?theme=dark&font=Fira%20Code&ext=heatmap" />
 </p>
 
-### 🔄 Recent Activity
+---
 
-<!--RECENT_START-->
-<!--RECENT_END-->
+## Profile Repo Structure
 
-### 📝 Recent Commits
-
-<!--COMMITS_START-->
-<!--COMMITS_END-->
+```text
+jonnyterrero/
+├── README.md
+├── assets/
+│   ├── banner/
+│   ├── diagrams/
+│   │   ├── ecosystem-architecture.svg
+│   │   └── repo-map.svg
+│   ├── projects/
+│   └── icons/
+├── .github/
+│   └── workflows/
+│       ├── update-readme.yml
+│       ├── metrics.yml
+│       └── recent-activity.yml
+├── data/
+│   ├── featured-projects.json
+│   ├── links.json
+│   └── metadata.json
+├── scripts/
+│   ├── update_recent_activity.py
+│   ├── update_commits.py
+│   └── build_readme_sections.py
+└── docs/
+    ├── profile-style-guide.md
+    ├── architecture-notes.md
+    └── badge-reference.md
+```
 
 ---
 
-## 📊 Engineering Metrics (GitHub Actions)
+<div align="center">
 
-![Metrics](./metrics.svg)
+*Structured like a system. Built like infrastructure. Maintained like a product.*
 
----
-
-## 🛠️ Tech & Tools
-
-### Languages & Computing
-![Python](https://img.shields.io/badge/Python-C084FC?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-F472B6?style=for-the-badge&logo=mathworks&logoColor=white)
-![C++](https://img.shields.io/badge/C++-8B5CF6?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### Data, ML & Visualization
-![PyTorch](https://img.shields.io/badge/PyTorch-F472B6?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-A855F7?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-6366F1?style=for-the-badge&logo=plotly&logoColor=white)
-
-### Systems & Tooling
-![Arduino](https://img.shields.io/badge/Arduino-22D3EE?style=for-the-badge&logo=arduino&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-0EA5E9?style=for-the-badge&logo=sqlite&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 🤝 Let’s Connect
-
-[![Email](https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jterrero16@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-terrero-467ba620b/)
-[![Instagram](https://img.shields.io/badge/Instagram-EC4899?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/JuicedupJonnyy)
-
----
-
-⚡ **Fun Fact**  
-When I’m not coding or in the lab, I’m either rolling on the mats, under a barbell, or building something new.
-
-**Engineering is applied discipline.**
+</div>
