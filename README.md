@@ -4,128 +4,89 @@
 
 **Biomedical Engineering · Full-Stack Systems · AI**
 
-Building connected health intelligence systems — from biosensors to production platforms.
+I build health platforms that work — from the sensor to the screen.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jonnyterrero)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jonnyterrero)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://jonnyterrero.github.io)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/jterrero16)
 
 </div>
 
 ---
 
-## About
-
-Biomedical Engineering student (Chemistry + Math minors) building a multi-year engineering ecosystem that bridges **biomedical systems, full-stack software, embedded hardware, and AI**. Every project is built to production standards — clean architecture, real data pipelines, observable behavior, and deployable infrastructure from day one.
-
----
-
-## Ecosystem Architecture
+Biomedical Engineering student (Chemistry + Math minors) working across the full stack — embedded hardware, production web apps, data pipelines, and AI agents. I don't build demos. If it ships, it ships right.
 
 ```mermaid
 flowchart LR
-    A[Jonny Terrero<br/>Bioengineering · Systems · AI] --> B[Health Intelligence]
-    A --> C[Personal OS & AI]
-    A --> D[Engineering & Academic]
-    A --> E[Stack & Infra]
-
-    B --> B1[HealthHelper<br/>Unified health hub]
-    B --> B2[MindMap<br/>Mental health analytics]
-    B --> B3[GastroGuard<br/>GI tracking + sensors]
-    B --> B4[SkinTrack+<br/>Skin condition tracking]
-
-    C --> C1[HeartWire-OS<br/>Learning · Building · Shipping]
-    C --> C2[JonnyJr<br/>Multi-agent AI co-pilot]
-    C --> C3[JonnyJr Automations<br/>Workflow orchestration]
-
-    D --> D1[Modular Knee Brace<br/>SolidWorks + Python]
-    D --> D2[Intro to Mech Design<br/>Arduino · Circuits · C++]
-    D --> D3[Human Physiology<br/>Quantitative physiology · MATLAB]
-    D --> D4[Engineering Projects<br/>MATLAB + Python stacks]
-
-    E --> E1[Python]
-    E --> E2[TypeScript / Next.js]
-    E --> E3[C/C++ / Arduino]
-    E --> E4[MATLAB]
-    E --> E5[Supabase / PostgreSQL]
-    E --> E6[ML + Data Pipelines]
-
-    B1 --> F[Unified AI Health Platform]
-    B2 --> F
-    B3 --> F
-    B4 --> F
+    A[🧬 Health Platform] --- B((JT))
+    B --- C[🤖 AI & Tooling]
+    B --- D[🔧 Engineering]
 ```
 
 ---
 
-## Featured Projects
+### 🧬 Health Platform
 
-### Health Intelligence Platform
+Building a modular ecosystem where tracking, analytics, and recommendations converge.
 
-| Project | Stack | Description |
-|---------|-------|-------------|
-| [**HealthHelper**](https://github.com/jonnyterrero/HealthHelper) | Next.js · Supabase · TypeScript | Unified health intelligence hub — the platform layer connecting all health apps into a single dashboard |
-| [**MindMap**](https://github.com/jonnyterrero/MindMap) | Python · Supabase · Next.js | Mental health tracking for anxiety, ADHD, bipolar, depression, and chronic migraines. RLS-secured data with longitudinal mood analytics |
-| [**GastroGuard**](https://github.com/jonnyterrero/gastro-guard) | Python · Arduino · Supabase | GI health tracker with hardware sensor integration, layered analytics pipeline, and ML-ready feature engineering |
-| [**SkinTrack+**](https://github.com/jonnyterrero/SkinTrack-) | Python · Computer Vision | Skin condition progression tracking through image capture and analysis for chronic skin conditions |
+| Project | Stack | What it does |
+|---------|-------|--------------|
+| [**HealthHelper**](https://github.com/jonnyterrero/HealthHelper) | Next.js · Supabase · TS | Unified hub connecting all health apps into one dashboard |
+| [**MindMap**](https://github.com/jonnyterrero/MindMap) | Python · Supabase · Next.js | Mental health tracking — mood, anxiety, ADHD, migraines, longitudinal analytics |
+| [**GastroGuard**](https://github.com/jonnyterrero/gastro-guard) | Python · Arduino · Supabase | GI tracker with sensor integration and ML-ready feature pipeline |
+| [**SkinTrack+**](https://github.com/jonnyterrero/SkinTrack-) | Python · CV | Skin condition progression tracking via image capture and analysis |
 
-### Personal OS & AI
+### 🤖 AI & Tooling
 
-| Project | Stack | Description |
-|---------|-------|-------------|
-| [**HeartWire-OS**](https://github.com/jonnyterrero/HeartWire-OS) | Next.js · Supabase · Vercel | Personal workspace organizing coursework, engineering projects, AI agents, and research into one coherent system |
-| [**JonnyJr**](https://github.com/jonnyterrero/JonnyJr) | OpenAI Agents SDK · JavaScript | Multi-agent AI co-pilot (Orchestrator → Planner → Coder → Researcher) with GitHub, Supabase, Notion, and Claude integrations |
-| [**JonnyJr Automations**](https://github.com/jonnyterrero/JonnyJr-s-workflow-and-automations) | TypeScript | Workflow automations and agent orchestration layer powering JonnyJr's integrations |
+| Project | Stack | What it does |
+|---------|-------|--------------|
+| [**HeartWire-OS**](https://github.com/jonnyterrero/HeartWire-OS) | Next.js · Supabase · Vercel | Personal OS — coursework, projects, research, and agents in one workspace |
+| [**JonnyJr**](https://github.com/jonnyterrero/JonnyJr) | OpenAI Agents SDK · JS | Multi-agent AI co-pilot with GitHub, Supabase, Notion, and Claude integrations |
+| [**JonnyJr Automations**](https://github.com/jonnyterrero/JonnyJr-s-workflow-and-automations) | TypeScript | Workflow orchestration layer powering JonnyJr |
 
-### Engineering & Academic
+### 🔧 Engineering
 
-| Project | Stack | Description |
-|---------|-------|-------------|
-| [**Modular Knee Brace**](https://github.com/jonnyterrero/Modular-Knee-Brace) | SolidWorks · Python | Modular knee brace prototype — full CAD model with embedded battery design and Python scripting |
-| [**Intro to Mech Design**](https://github.com/jonnyterrero/Intro-to-Mech-Design) | C++ · Arduino | Upper-level bioengineering coursework: Arduino programming, circuit analysis, and computer architecture labs |
-| [**Human Physiology for Engineers**](https://github.com/jonnyterrero/Human-Physiology-for-Engineers) | MATLAB | Full quantitative physiology course — labs, projects, test reviews, and lecture materials |
-| [**Engineering Projects**](https://github.com/jonnyterrero/Engineering-Projects) | Python · MATLAB | Two engineering tech stacks (comprehensive + optimized) for biomedical/mechanical engineering applications |
-
-### Practice & Portfolio
-
-| Project | Stack | Description |
-|---------|-------|-------------|
-| [**Neetcode Problems**](https://github.com/jonnyterrero/Neetcode-Problems) | Python | NeetCode.io problem submissions — DSA practice and pattern recognition |
-| [**Portfolio**](https://github.com/jonnyterrero/JonnyTerrero.github.io) | TypeScript | Live portfolio site |
+| Project | Stack | What it does |
+|---------|-------|--------------|
+| [**Modular Knee Brace**](https://github.com/jonnyterrero/Modular-Knee-Brace) | SolidWorks · Python | Full CAD prototype with embedded battery design |
+| [**Mech Design Labs**](https://github.com/jonnyterrero/Intro-to-Mech-Design) | C++ · Arduino | Arduino programming, circuit analysis, and computer architecture |
+| [**Physiology Labs**](https://github.com/jonnyterrero/Human-Physiology-for-Engineers) | MATLAB | Quantitative physiology — labs, projects, and computational models |
+| [**Engineering Projects**](https://github.com/jonnyterrero/Engineering-Projects) | Python · MATLAB | Biomedical/mechanical engineering application stacks |
+| [**Neetcode**](https://github.com/jonnyterrero/Neetcode-Problems) | Python | DSA practice — patterns and problem solving |
 
 ---
 
-## Engineering Stack
+### Stack
 
 ```
-Languages        Python · TypeScript · JavaScript · C/C++ · MATLAB · SQL
-Frameworks       Next.js 14 · React Native · Supabase · Prisma · Vercel
-AI & Data        OpenAI Agents SDK · Claude API · NumPy · SciPy · SymPy · Matplotlib
-Infrastructure   Docker · Proxmox · WireGuard · GitHub Actions · Make.com
-Hardware         Arduino · Servo Systems · HC-SR04 · Sensor Integration · SolidWorks
+Languages        Python · TypeScript · C/C++ · MATLAB · SQL
+Frameworks       Next.js · React Native · Supabase · Prisma · Vercel
+AI & Data        OpenAI Agents SDK · Claude API · NumPy · SciPy · Matplotlib
+Hardware         Arduino · Servo Systems · Ultrasonic Sensors · SolidWorks
+Infra            Docker · Proxmox · WireGuard · GitHub Actions · Make.com
 ```
 
 ---
 
-## Live Metrics
+### 📊 Metrics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonnyterrero&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonnyterrero&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jonnyterrero&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonnyterrero&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=jonnyterrero&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://streak-stats.demolab.com?user=jonnyterrero&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="220em" src="https://leetcard.jacoblin.cool/jterrero16?theme=dark&font=Fira%20Code&ext=heatmap" />
+  <img height="200em" src="https://leetcard.jacoblin.cool/jterrero16?theme=dark&font=Fira%20Code&ext=heatmap" />
 </p>
 
 ---
 
 <div align="center">
 
-*Structured like a system. Built like infrastructure. Maintained like a product.*
+*Ships clean. Breaks nothing. Learns everything.*
 
 </div>
