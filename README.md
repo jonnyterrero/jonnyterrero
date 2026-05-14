@@ -22,26 +22,38 @@ Biomedical Engineering student (Chemistry + Math minors) building a multi-year e
 
 ## Ecosystem Architecture
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                     HEALTH INTELLIGENCE PLATFORM                 │
-│                                                                  │
-│   HealthHelper ─── Unified hub connecting all health apps        │
-│       │                                                          │
-│       ├── MindMap ──────── Mental health analytics               │
-│       ├── GastroGuard ──── GI tracking + dietary correlations    │
-│       └── SkinTrack+ ──── Skin condition progression             │
-│                                                                  │
-├──────────────────────────────────────────────────────────────────┤
-│                     PERSONAL INFRASTRUCTURE                      │
-│                                                                  │
-│   HeartWire-OS ─── Learning, building, shipping workspace        │
-│   JonnyJr ──────── Multi-agent AI co-pilot + automations         │
-│                                                                  │
-├──────────────────────────────────────────────────────────────────┤
-│                     SHARED LAYER                                 │
-│   Supabase (Auth + Postgres + RLS) · Vercel · GitHub Actions     │
-└──────────────────────────────────────────────────────────────────┘
+```mermaid
+flowchart LR
+    A[Jonny Terrero<br/>Bioengineering · Systems · AI] --> B[Health Intelligence]
+    A --> C[Personal OS & AI]
+    A --> D[Engineering & Academic]
+    A --> E[Stack & Infra]
+
+    B --> B1[HealthHelper<br/>Unified health hub]
+    B --> B2[MindMap<br/>Mental health analytics]
+    B --> B3[GastroGuard<br/>GI tracking + sensors]
+    B --> B4[SkinTrack+<br/>Skin condition tracking]
+
+    C --> C1[HeartWire-OS<br/>Learning · Building · Shipping]
+    C --> C2[JonnyJr<br/>Multi-agent AI co-pilot]
+    C --> C3[JonnyJr Automations<br/>Workflow orchestration]
+
+    D --> D1[Modular Knee Brace<br/>SolidWorks + Python]
+    D --> D2[Intro to Mech Design<br/>Arduino · Circuits · C++]
+    D --> D3[Human Physiology<br/>Quantitative physiology · MATLAB]
+    D --> D4[Engineering Projects<br/>MATLAB + Python stacks]
+
+    E --> E1[Python]
+    E --> E2[TypeScript / Next.js]
+    E --> E3[C/C++ / Arduino]
+    E --> E4[MATLAB]
+    E --> E5[Supabase / PostgreSQL]
+    E --> E6[ML + Data Pipelines]
+
+    B1 --> F[Unified AI Health Platform]
+    B2 --> F
+    B3 --> F
+    B4 --> F
 ```
 
 ---
