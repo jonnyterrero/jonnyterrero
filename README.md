@@ -42,7 +42,9 @@ Infra         Docker · GitHub Actions · Make.com · Proxmox
 
 <!--RECENT_START-->
 Auto-updated from latest public activity.
-- **jonnyterrero** — updated 2026-09-04 16:53:47 UTC  
+- **MindMap** — updated 2026-09-04 19:05:02 UTC  
+  [repo](https://github.com/jonnyterrero/MindMap) • ★1 • forks:0
+- **jonnyterrero** — updated 2026-09-04 16:54:13 UTC  
   [repo](https://github.com/jonnyterrero/jonnyterrero) • ★0 • forks:0
 - **workflows-and-automations** — updated 2026-09-04 16:28:12 UTC  
   [repo](https://github.com/jonnyterrero/workflows-and-automations) • ★1 • forks:0
@@ -52,8 +54,6 @@ Auto-updated from latest public activity.
   [repo](https://github.com/jonnyterrero/JonnyTerrero.github.io) • ★0 • forks:0
 - **HeartWire-OS** — updated 2026-08-30 03:58:07 UTC  
   [repo](https://github.com/jonnyterrero/HeartWire-OS) • ★1 • forks:0
-- **MindMap** — updated 2026-08-28 04:39:05 UTC  
-  [repo](https://github.com/jonnyterrero/MindMap) • ★1 • forks:0
 - **SkinTrack-** — updated 2026-07-12 16:12:36 UTC  
   [repo](https://github.com/jonnyterrero/SkinTrack-) • ★1 • forks:0
 <!--RECENT_END-->
@@ -61,14 +61,14 @@ Auto-updated from latest public activity.
 ### Latest commits
 
 <!--COMMITS_START-->
-- **jonnyterrero**: Bump checkout to v5 to drop the Node 20 deprecation warning.  
-  [f92c583](https://github.com/jonnyterrero/jonnyterrero/commit/f92c583738711bd66b7b6d2d915a5f80c7517696) • 2026-09-04 16:53:42 UTC
+- **MindMap**: docs(ml): add real training and hosting handoff  
+  [e44ebab](https://github.com/jonnyterrero/MindMap/commit/e44ebab7ab4f5cc06017d5d6bd3c4c5c8a1dfa52) • 2026-09-04 19:04:58 UTC
+- **jonnyterrero**: Update metrics.svg - [Skip GitHub Action]  
+  [56823e0](https://github.com/jonnyterrero/jonnyterrero/commit/56823e01c1873f8cb39715f82b06f3aa350405e8) • 2026-09-04 16:54:13 UTC
 - **workflows-and-automations**: Merge pull request #16 from jonnyterrero/claude/public-account-connection-n696ny  
   [c41f1af](https://github.com/jonnyterrero/workflows-and-automations/commit/c41f1af859473dfa38113ddf2fcef7a9fd8231d7) • 2026-08-27 23:07:23 UTC
 - **Neetcode-Problems**: study: add Search a 2D Matrix and Reverse Nodes in k-Group  
   [65042c2](https://github.com/jonnyterrero/Neetcode-Problems/commit/65042c2bce5024493dfca018246a4c87626d3b56) • 2026-09-01 04:49:41 UTC
-- **JonnyTerrero.github.io**: Add example prompts for every AI agent, fix stale SkinTrack+ status  
-  [de0c0c0](https://github.com/jonnyterrero/JonnyTerrero.github.io/commit/de0c0c0c59cb19dd4439d30fac19d47a1d164b29) • 2026-08-30 04:39:21 UTC
 <!--COMMITS_END-->
 
 ---
