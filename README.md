@@ -42,7 +42,7 @@ Infra         Docker · GitHub Actions · Make.com · Proxmox
 
 <!--RECENT_START-->
 Auto-updated from latest public activity.
-- **jonnyterrero** — updated 2026-09-04 16:52:43 UTC  
+- **jonnyterrero** — updated 2026-09-04 16:53:47 UTC  
   [repo](https://github.com/jonnyterrero/jonnyterrero) • ★0 • forks:0
 - **workflows-and-automations** — updated 2026-09-04 16:28:12 UTC  
   [repo](https://github.com/jonnyterrero/workflows-and-automations) • ★1 • forks:0
@@ -61,8 +61,8 @@ Auto-updated from latest public activity.
 ### Latest commits
 
 <!--COMMITS_START-->
-- **jonnyterrero**: Fix Auto-update README workflow by dropping the missing cli/gh-action.  
-  [f05ca53](https://github.com/jonnyterrero/jonnyterrero/commit/f05ca53ba45729d3cfd5e0f44a22ad349c85fb05) • 2026-09-04 16:52:21 UTC
+- **jonnyterrero**: Bump checkout to v5 to drop the Node 20 deprecation warning.  
+  [f92c583](https://github.com/jonnyterrero/jonnyterrero/commit/f92c583738711bd66b7b6d2d915a5f80c7517696) • 2026-09-04 16:53:42 UTC
 - **workflows-and-automations**: Merge pull request #16 from jonnyterrero/claude/public-account-connection-n696ny  
   [c41f1af](https://github.com/jonnyterrero/workflows-and-automations/commit/c41f1af859473dfa38113ddf2fcef7a9fd8231d7) • 2026-08-27 23:07:23 UTC
 - **Neetcode-Problems**: study: add Search a 2D Matrix and Reverse Nodes in k-Group  
