@@ -38,6 +38,18 @@ Infra         Docker · GitHub Actions · Make.com · Proxmox
 
 ---
 
+## Recent activity
+
+<!--RECENT_START-->
+<!--RECENT_END-->
+
+### Latest commits
+
+<!--COMMITS_START-->
+<!--COMMITS_END-->
+
+---
+
 ## Contact
 
 - **Portfolio:** [jonnyterrero.github.io](https://jonnyterrero.github.io)
