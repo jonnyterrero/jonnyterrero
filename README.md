@@ -41,11 +41,34 @@ Infra         Docker · GitHub Actions · Make.com · Proxmox
 ## Recent activity
 
 <!--RECENT_START-->
+Auto-updated from latest public activity.
+- **jonnyterrero** — updated 2026-09-04 16:52:43 UTC  
+  [repo](https://github.com/jonnyterrero/jonnyterrero) • ★0 • forks:0
+- **workflows-and-automations** — updated 2026-09-04 16:28:12 UTC  
+  [repo](https://github.com/jonnyterrero/workflows-and-automations) • ★1 • forks:0
+- **Neetcode-Problems** — updated 2026-09-01 04:50:21 UTC  
+  [repo](https://github.com/jonnyterrero/Neetcode-Problems) • ★0 • forks:0
+- **JonnyTerrero.github.io** — updated 2026-08-30 04:42:30 UTC  
+  [repo](https://github.com/jonnyterrero/JonnyTerrero.github.io) • ★0 • forks:0
+- **HeartWire-OS** — updated 2026-08-30 03:58:07 UTC  
+  [repo](https://github.com/jonnyterrero/HeartWire-OS) • ★1 • forks:0
+- **MindMap** — updated 2026-08-28 04:39:05 UTC  
+  [repo](https://github.com/jonnyterrero/MindMap) • ★1 • forks:0
+- **SkinTrack-** — updated 2026-07-12 16:12:36 UTC  
+  [repo](https://github.com/jonnyterrero/SkinTrack-) • ★1 • forks:0
 <!--RECENT_END-->
 
 ### Latest commits
 
 <!--COMMITS_START-->
+- **jonnyterrero**: Fix Auto-update README workflow by dropping the missing cli/gh-action.  
+  [f05ca53](https://github.com/jonnyterrero/jonnyterrero/commit/f05ca53ba45729d3cfd5e0f44a22ad349c85fb05) • 2026-09-04 16:52:21 UTC
+- **workflows-and-automations**: Merge pull request #16 from jonnyterrero/claude/public-account-connection-n696ny  
+  [c41f1af](https://github.com/jonnyterrero/workflows-and-automations/commit/c41f1af859473dfa38113ddf2fcef7a9fd8231d7) • 2026-08-27 23:07:23 UTC
+- **Neetcode-Problems**: study: add Search a 2D Matrix and Reverse Nodes in k-Group  
+  [65042c2](https://github.com/jonnyterrero/Neetcode-Problems/commit/65042c2bce5024493dfca018246a4c87626d3b56) • 2026-09-01 04:49:41 UTC
+- **JonnyTerrero.github.io**: Add example prompts for every AI agent, fix stale SkinTrack+ status  
+  [de0c0c0](https://github.com/jonnyterrero/JonnyTerrero.github.io/commit/de0c0c0c59cb19dd4439d30fac19d47a1d164b29) • 2026-08-30 04:39:21 UTC
 <!--COMMITS_END-->
 
 ---
