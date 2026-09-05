@@ -42,7 +42,7 @@ Infra         Docker · GitHub Actions · Make.com · Proxmox
 
 <!--RECENT_START-->
 Auto-updated from latest public activity.
-- **jonnyterrero** — updated 2026-09-05 01:49:11 UTC  
+- **jonnyterrero** — updated 2026-09-05 03:11:08 UTC  
   [repo](https://github.com/jonnyterrero/jonnyterrero) • ★0 • forks:0
 - **MindMap** — updated 2026-09-04 19:05:02 UTC  
   [repo](https://github.com/jonnyterrero/MindMap) • ★1 • forks:0
@@ -61,8 +61,8 @@ Auto-updated from latest public activity.
 ### Latest commits
 
 <!--COMMITS_START-->
-- **jonnyterrero**: Update metrics.svg - [Skip GitHub Action]  
-  [d1cd544](https://github.com/jonnyterrero/jonnyterrero/commit/d1cd544234ca90aebc03cb9f1d3981aed39d83f0) • 2026-09-05 01:49:10 UTC
+- **jonnyterrero**: chore: auto-update README [skip ci]  
+  [5b7907b](https://github.com/jonnyterrero/jonnyterrero/commit/5b7907b84de0e76f4cc9753a392c477f0fe1bd48) • 2026-09-05 03:11:07 UTC
 - **MindMap**: docs(ml): add real training and hosting handoff  
   [e44ebab](https://github.com/jonnyterrero/MindMap/commit/e44ebab7ab4f5cc06017d5d6bd3c4c5c8a1dfa52) • 2026-09-04 19:04:58 UTC
 - **workflows-and-automations**: Merge pull request #16 from jonnyterrero/claude/public-account-connection-n696ny  
