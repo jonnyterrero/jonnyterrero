@@ -42,10 +42,10 @@ Infra         Docker · GitHub Actions · Make.com · Proxmox
 
 <!--RECENT_START-->
 Auto-updated from latest public activity.
+- **jonnyterrero** — updated 2026-09-05 01:49:11 UTC  
+  [repo](https://github.com/jonnyterrero/jonnyterrero) • ★0 • forks:0
 - **MindMap** — updated 2026-09-04 19:05:02 UTC  
   [repo](https://github.com/jonnyterrero/MindMap) • ★1 • forks:0
-- **jonnyterrero** — updated 2026-09-04 16:54:13 UTC  
-  [repo](https://github.com/jonnyterrero/jonnyterrero) • ★0 • forks:0
 - **workflows-and-automations** — updated 2026-09-04 16:28:12 UTC  
   [repo](https://github.com/jonnyterrero/workflows-and-automations) • ★1 • forks:0
 - **Neetcode-Problems** — updated 2026-09-01 04:50:21 UTC  
@@ -61,10 +61,10 @@ Auto-updated from latest public activity.
 ### Latest commits
 
 <!--COMMITS_START-->
+- **jonnyterrero**: Update metrics.svg - [Skip GitHub Action]  
+  [d1cd544](https://github.com/jonnyterrero/jonnyterrero/commit/d1cd544234ca90aebc03cb9f1d3981aed39d83f0) • 2026-09-05 01:49:10 UTC
 - **MindMap**: docs(ml): add real training and hosting handoff  
   [e44ebab](https://github.com/jonnyterrero/MindMap/commit/e44ebab7ab4f5cc06017d5d6bd3c4c5c8a1dfa52) • 2026-09-04 19:04:58 UTC
-- **jonnyterrero**: Update metrics.svg - [Skip GitHub Action]  
-  [56823e0](https://github.com/jonnyterrero/jonnyterrero/commit/56823e01c1873f8cb39715f82b06f3aa350405e8) • 2026-09-04 16:54:13 UTC
 - **workflows-and-automations**: Merge pull request #16 from jonnyterrero/claude/public-account-connection-n696ny  
   [c41f1af](https://github.com/jonnyterrero/workflows-and-automations/commit/c41f1af859473dfa38113ddf2fcef7a9fd8231d7) • 2026-08-27 23:07:23 UTC
 - **Neetcode-Problems**: study: add Search a 2D Matrix and Reverse Nodes in k-Group  
