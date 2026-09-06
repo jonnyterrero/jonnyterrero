@@ -42,14 +42,14 @@ Infra         Docker · GitHub Actions · Make.com · Proxmox
 
 <!--RECENT_START-->
 Auto-updated from latest public activity.
-- **jonnyterrero** — updated 2026-09-06 01:43:25 UTC  
+- **Neetcode-Problems** — updated 2026-09-06 03:25:51 UTC  
+  [repo](https://github.com/jonnyterrero/Neetcode-Problems) • ★0 • forks:0
+- **jonnyterrero** — updated 2026-09-06 03:10:49 UTC  
   [repo](https://github.com/jonnyterrero/jonnyterrero) • ★0 • forks:0
 - **MindMap** — updated 2026-09-04 19:05:02 UTC  
   [repo](https://github.com/jonnyterrero/MindMap) • ★1 • forks:0
 - **workflows-and-automations** — updated 2026-09-04 16:28:12 UTC  
   [repo](https://github.com/jonnyterrero/workflows-and-automations) • ★1 • forks:0
-- **Neetcode-Problems** — updated 2026-09-01 04:50:21 UTC  
-  [repo](https://github.com/jonnyterrero/Neetcode-Problems) • ★0 • forks:0
 - **JonnyTerrero.github.io** — updated 2026-08-30 04:42:30 UTC  
   [repo](https://github.com/jonnyterrero/JonnyTerrero.github.io) • ★0 • forks:0
 - **HeartWire-OS** — updated 2026-08-30 03:58:07 UTC  
@@ -61,14 +61,14 @@ Auto-updated from latest public activity.
 ### Latest commits
 
 <!--COMMITS_START-->
-- **jonnyterrero**: Update metrics.svg - [Skip GitHub Action]  
-  [e3a0db0](https://github.com/jonnyterrero/jonnyterrero/commit/e3a0db05585f7be38836fa28f4c8216a86644056) • 2026-09-06 01:43:25 UTC
+- **Neetcode-Problems**: Add: eating-bananas - submission-0  
+  [9b39e6b](https://github.com/jonnyterrero/Neetcode-Problems/commit/9b39e6b1ddf6b16251b43347faae126be320d888) • 2026-09-06 03:25:50 UTC
+- **jonnyterrero**: chore: auto-update README [skip ci]  
+  [f26b4f0](https://github.com/jonnyterrero/jonnyterrero/commit/f26b4f0fadb07d92e0d10636287f2b1ba5c8149c) • 2026-09-06 03:10:49 UTC
 - **MindMap**: docs(ml): add real training and hosting handoff  
   [e44ebab](https://github.com/jonnyterrero/MindMap/commit/e44ebab7ab4f5cc06017d5d6bd3c4c5c8a1dfa52) • 2026-09-04 19:04:58 UTC
 - **workflows-and-automations**: Merge pull request #16 from jonnyterrero/claude/public-account-connection-n696ny  
   [c41f1af](https://github.com/jonnyterrero/workflows-and-automations/commit/c41f1af859473dfa38113ddf2fcef7a9fd8231d7) • 2026-08-27 23:07:23 UTC
-- **Neetcode-Problems**: study: add Search a 2D Matrix and Reverse Nodes in k-Group  
-  [65042c2](https://github.com/jonnyterrero/Neetcode-Problems/commit/65042c2bce5024493dfca018246a4c87626d3b56) • 2026-09-01 04:49:41 UTC
 <!--COMMITS_END-->
 
 ---
