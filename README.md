@@ -42,10 +42,10 @@ Infra         Docker · GitHub Actions · Make.com · Proxmox
 
 <!--RECENT_START-->
 Auto-updated from latest public activity.
+- **jonnyterrero** — updated 2026-09-07 17:20:16 UTC  
+  [repo](https://github.com/jonnyterrero/jonnyterrero) • ★0 • forks:0
 - **workflows-and-automations** — updated 2026-09-07 16:05:47 UTC  
   [repo](https://github.com/jonnyterrero/workflows-and-automations) • ★1 • forks:0
-- **jonnyterrero** — updated 2026-09-07 11:42:20 UTC  
-  [repo](https://github.com/jonnyterrero/jonnyterrero) • ★0 • forks:0
 - **Neetcode-Problems** — updated 2026-09-06 03:25:51 UTC  
   [repo](https://github.com/jonnyterrero/Neetcode-Problems) • ★0 • forks:0
 - **MindMap** — updated 2026-09-04 19:05:02 UTC  
@@ -61,10 +61,10 @@ Auto-updated from latest public activity.
 ### Latest commits
 
 <!--COMMITS_START-->
+- **jonnyterrero**: chore: auto-update README [skip ci]  
+  [569a2ff](https://github.com/jonnyterrero/jonnyterrero/commit/569a2ff89ca44c4780da3bea4f7a8da928dab3e0) • 2026-09-07 17:20:15 UTC
 - **workflows-and-automations**: Merge pull request #16 from jonnyterrero/claude/public-account-connection-n696ny  
   [c41f1af](https://github.com/jonnyterrero/workflows-and-automations/commit/c41f1af859473dfa38113ddf2fcef7a9fd8231d7) • 2026-08-27 23:07:23 UTC
-- **jonnyterrero**: chore: auto-update README [skip ci]  
-  [973813a](https://github.com/jonnyterrero/jonnyterrero/commit/973813aa6f3f0ee874fc6789034df258ff1c96cd) • 2026-09-07 11:42:19 UTC
 - **Neetcode-Problems**: Add: eating-bananas - submission-0  
   [9b39e6b](https://github.com/jonnyterrero/Neetcode-Problems/commit/9b39e6b1ddf6b16251b43347faae126be320d888) • 2026-09-06 03:25:50 UTC
 - **MindMap**: docs(ml): add real training and hosting handoff  
