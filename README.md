@@ -42,14 +42,14 @@ Infra         Docker · GitHub Actions · Make.com · Proxmox
 
 <!--RECENT_START-->
 Auto-updated from latest public activity.
-- **jonnyterrero** — updated 2026-09-07 17:20:16 UTC  
+- **jonnyterrero** — updated 2026-09-08 01:51:49 UTC  
   [repo](https://github.com/jonnyterrero/jonnyterrero) • ★0 • forks:0
+- **MindMap** — updated 2026-09-08 00:36:45 UTC  
+  [repo](https://github.com/jonnyterrero/MindMap) • ★1 • forks:0
 - **workflows-and-automations** — updated 2026-09-07 16:05:47 UTC  
   [repo](https://github.com/jonnyterrero/workflows-and-automations) • ★1 • forks:0
 - **Neetcode-Problems** — updated 2026-09-06 03:25:51 UTC  
   [repo](https://github.com/jonnyterrero/Neetcode-Problems) • ★0 • forks:0
-- **MindMap** — updated 2026-09-04 19:05:02 UTC  
-  [repo](https://github.com/jonnyterrero/MindMap) • ★1 • forks:0
 - **JonnyTerrero.github.io** — updated 2026-08-30 04:42:30 UTC  
   [repo](https://github.com/jonnyterrero/JonnyTerrero.github.io) • ★0 • forks:0
 - **HeartWire-OS** — updated 2026-08-30 03:58:07 UTC  
@@ -61,14 +61,14 @@ Auto-updated from latest public activity.
 ### Latest commits
 
 <!--COMMITS_START-->
-- **jonnyterrero**: chore: auto-update README [skip ci]  
-  [569a2ff](https://github.com/jonnyterrero/jonnyterrero/commit/569a2ff89ca44c4780da3bea4f7a8da928dab3e0) • 2026-09-07 17:20:15 UTC
+- **jonnyterrero**: Update metrics.svg - [Skip GitHub Action]  
+  [615a7c7](https://github.com/jonnyterrero/jonnyterrero/commit/615a7c7473212ccc995f1d54f249f7390a449d64) • 2026-09-08 01:51:49 UTC
+- **MindMap**: Merge pull request #3 from jonnyterrero/feat/code-backlog-1.3-deletion  
+  [be0ab48](https://github.com/jonnyterrero/MindMap/commit/be0ab487df4d47e1ab446d7e0e94eee96489d0c5) • 2026-09-08 00:36:42 UTC
 - **workflows-and-automations**: Merge pull request #16 from jonnyterrero/claude/public-account-connection-n696ny  
   [c41f1af](https://github.com/jonnyterrero/workflows-and-automations/commit/c41f1af859473dfa38113ddf2fcef7a9fd8231d7) • 2026-08-27 23:07:23 UTC
 - **Neetcode-Problems**: Add: eating-bananas - submission-0  
   [9b39e6b](https://github.com/jonnyterrero/Neetcode-Problems/commit/9b39e6b1ddf6b16251b43347faae126be320d888) • 2026-09-06 03:25:50 UTC
-- **MindMap**: docs(ml): add real training and hosting handoff  
-  [e44ebab](https://github.com/jonnyterrero/MindMap/commit/e44ebab7ab4f5cc06017d5d6bd3c4c5c8a1dfa52) • 2026-09-04 19:04:58 UTC
 <!--COMMITS_END-->
 
 ---
