@@ -42,10 +42,10 @@ Infra         Docker · GitHub Actions · Make.com · Proxmox
 
 <!--RECENT_START-->
 Auto-updated from latest public activity.
+- **jonnyterrero** — updated 2026-09-08 10:40:56 UTC  
+  [repo](https://github.com/jonnyterrero/jonnyterrero) • ★0 • forks:0
 - **Bio-Performance-of-Materials** — updated 2026-09-08 03:46:46 UTC  
   [repo](https://github.com/jonnyterrero/Bio-Performance-of-Materials) • ★0 • forks:0
-- **jonnyterrero** — updated 2026-09-08 03:17:35 UTC  
-  [repo](https://github.com/jonnyterrero/jonnyterrero) • ★0 • forks:0
 - **MindMap** — updated 2026-09-08 00:36:45 UTC  
   [repo](https://github.com/jonnyterrero/MindMap) • ★1 • forks:0
 - **workflows-and-automations** — updated 2026-09-07 16:05:47 UTC  
@@ -61,10 +61,10 @@ Auto-updated from latest public activity.
 ### Latest commits
 
 <!--COMMITS_START-->
+- **jonnyterrero**: chore: auto-update README [skip ci]  
+  [af2eee0](https://github.com/jonnyterrero/jonnyterrero/commit/af2eee099679297e3aa17aa7bff75605c3bd9487) • 2026-09-08 10:40:55 UTC
 - **Bio-Performance-of-Materials**: feat: initialize ScholarSlide Pro scaffold  
   [0efca87](https://github.com/jonnyterrero/Bio-Performance-of-Materials/commit/0efca87f3b4c94968e09f159de1015ad29a78469) • 2026-09-08 03:46:46 UTC
-- **jonnyterrero**: chore: auto-update README [skip ci]  
-  [affd652](https://github.com/jonnyterrero/jonnyterrero/commit/affd6520486757684487f18fcb3f5b408d63df8b) • 2026-09-08 03:17:34 UTC
 - **MindMap**: Merge pull request #3 from jonnyterrero/feat/code-backlog-1.3-deletion  
   [be0ab48](https://github.com/jonnyterrero/MindMap/commit/be0ab487df4d47e1ab446d7e0e94eee96489d0c5) • 2026-09-08 00:36:42 UTC
 - **workflows-and-automations**: Merge pull request #16 from jonnyterrero/claude/public-account-connection-n696ny  
