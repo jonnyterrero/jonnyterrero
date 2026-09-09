@@ -42,7 +42,7 @@ Infra         Docker · GitHub Actions · Make.com · Proxmox
 
 <!--RECENT_START-->
 Auto-updated from latest public activity.
-- **jonnyterrero** — updated 2026-09-09 10:50:06 UTC  
+- **jonnyterrero** — updated 2026-09-09 16:00:14 UTC  
   [repo](https://github.com/jonnyterrero/jonnyterrero) • ★0 • forks:0
 - **Human-Physiology-for-Engineers** — updated 2026-09-09 05:07:47 UTC  
   [repo](https://github.com/jonnyterrero/Human-Physiology-for-Engineers) • ★0 • forks:0
@@ -62,7 +62,7 @@ Auto-updated from latest public activity.
 
 <!--COMMITS_START-->
 - **jonnyterrero**: chore: auto-update README [skip ci]  
-  [5e666be](https://github.com/jonnyterrero/jonnyterrero/commit/5e666be6940858343a6c46f5c85cbefb872c8fa8) • 2026-09-09 10:50:05 UTC
+  [b72057d](https://github.com/jonnyterrero/jonnyterrero/commit/b72057dad3292b02baa7132622b0cdd61ea9f307) • 2026-09-09 16:00:11 UTC
 - **Human-Physiology-for-Engineers**: Remove starter Pages workflows; keep visualizations-only deploy  
   [3a5229a](https://github.com/jonnyterrero/Human-Physiology-for-Engineers/commit/3a5229ac87ac4338e6018b7d34fc658ea93b6571) • 2026-09-09 05:07:49 UTC
 - **BME-Visualizations**: Add GitHub Actions workflow for static site deployment  
