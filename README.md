@@ -42,10 +42,12 @@ Infra         Docker · GitHub Actions · Make.com · Proxmox
 
 <!--RECENT_START-->
 Auto-updated from latest public activity.
-- **jonnyterrero** — updated 2026-09-09 01:57:39 UTC  
+- **Human-Physiology-for-Engineers** — updated 2026-09-09 05:07:47 UTC  
+  [repo](https://github.com/jonnyterrero/Human-Physiology-for-Engineers) • ★0 • forks:0
+- **BME-Visualizations** — updated 2026-09-09 04:48:36 UTC  
+  [repo](https://github.com/jonnyterrero/BME-Visualizations) • ★0 • forks:0
+- **jonnyterrero** — updated 2026-09-09 03:20:30 UTC  
   [repo](https://github.com/jonnyterrero/jonnyterrero) • ★0 • forks:0
-- **Bio-Performance-of-Materials** — updated 2026-09-08 03:46:46 UTC  
-  [repo](https://github.com/jonnyterrero/Bio-Performance-of-Materials) • ★0 • forks:0
 - **MindMap** — updated 2026-09-08 00:36:45 UTC  
   [repo](https://github.com/jonnyterrero/MindMap) • ★1 • forks:0
 - **workflows-and-automations** — updated 2026-09-07 16:05:47 UTC  
@@ -54,21 +56,19 @@ Auto-updated from latest public activity.
   [repo](https://github.com/jonnyterrero/Neetcode-Problems) • ★0 • forks:0
 - **JonnyTerrero.github.io** — updated 2026-08-30 04:42:30 UTC  
   [repo](https://github.com/jonnyterrero/JonnyTerrero.github.io) • ★0 • forks:0
-- **HeartWire-OS** — updated 2026-08-30 03:58:07 UTC  
-  [repo](https://github.com/jonnyterrero/HeartWire-OS) • ★1 • forks:0
 <!--RECENT_END-->
 
 ### Latest commits
 
 <!--COMMITS_START-->
-- **jonnyterrero**: Update metrics.svg - [Skip GitHub Action]  
-  [d1d2575](https://github.com/jonnyterrero/jonnyterrero/commit/d1d2575f69cec35e63dfc4171aa7bfda913fda02) • 2026-09-09 01:57:38 UTC
-- **Bio-Performance-of-Materials**: feat: initialize ScholarSlide Pro scaffold  
-  [0efca87](https://github.com/jonnyterrero/Bio-Performance-of-Materials/commit/0efca87f3b4c94968e09f159de1015ad29a78469) • 2026-09-08 03:46:46 UTC
+- **Human-Physiology-for-Engineers**: Remove starter Pages workflows; keep visualizations-only deploy  
+  [3a5229a](https://github.com/jonnyterrero/Human-Physiology-for-Engineers/commit/3a5229ac87ac4338e6018b7d34fc658ea93b6571) • 2026-09-09 05:07:49 UTC
+- **BME-Visualizations**: Add GitHub Actions workflow for static site deployment  
+  [4be8f18](https://github.com/jonnyterrero/BME-Visualizations/commit/4be8f18245f0e184ecaec9c01ce3719c21920bb6) • 2026-09-09 04:48:36 UTC
+- **jonnyterrero**: chore: auto-update README [skip ci]  
+  [dfdfed0](https://github.com/jonnyterrero/jonnyterrero/commit/dfdfed062048296118edece61d20ad9e34c5b11e) • 2026-09-09 03:20:28 UTC
 - **MindMap**: Merge pull request #3 from jonnyterrero/feat/code-backlog-1.3-deletion  
   [be0ab48](https://github.com/jonnyterrero/MindMap/commit/be0ab487df4d47e1ab446d7e0e94eee96489d0c5) • 2026-09-08 00:36:42 UTC
-- **workflows-and-automations**: Merge pull request #16 from jonnyterrero/claude/public-account-connection-n696ny  
-  [c41f1af](https://github.com/jonnyterrero/workflows-and-automations/commit/c41f1af859473dfa38113ddf2fcef7a9fd8231d7) • 2026-08-27 23:07:23 UTC
 <!--COMMITS_END-->
 
 ---
