@@ -1,14 +1,14 @@
-name: Auto-update README
+name: Update coding practice stats
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "17 6 * * *"
   workflow_dispatch:
   repository_dispatch:
     types: [update-profile]
 
 concurrency:
-  group: update-readme
+  group: update-coding-stats
   cancel-in-progress: true
 
 permissions:
@@ -17,74 +17,31 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+
     steps:
-      - uses: actions/checkout@v5
+      - name: Check out profile repository
+        uses: actions/checkout@v5
 
-      - name: Generate dynamic sections
+      - name: Update LeetCode and NeetCode statistics
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_USER: jonnyterrero
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: jonnyterrero
+          LEETCODE_USERNAME: jterrero16
+          NEETCODE_REPOSITORY: Neetcode-Problems
         run: |
-          set -euo pipefail
+          python -m unittest discover -s .github/scripts -p "test_*.py"
+          python .github/scripts/update_coding_stats.py
 
-          echo "Fetching repositories..."
-          if ! gh api "/users/$GH_USER/repos?sort=pushed&per_page=7" > repos.json; then
-            echo "Error: Failed to fetch repositories"
-            exit 1
-          fi
-
-          if [ ! -s repos.json ]; then
-            echo "Error: repos.json is empty"
-            exit 1
-          fi
-
-          echo "Auto-updated from latest public activity." > recent.md
-          jq -r '.[] |
-            "- **\(.name)** — updated \(.pushed_at | sub("T";" ") | sub("Z";" UTC"))  \n  [repo](\(.html_url)) • ★\(.stargazers_count) • forks:\(.forks_count)"' repos.json >> recent.md
-
-          : > commits.md
-          for r in $(jq -r '.[].name' repos.json | head -n 4); do
-            if [ -n "$r" ]; then
-              gh api "/repos/$GH_USER/$r/commits?per_page=1" | jq -r --arg r "$r" '
-                if (type=="array" and length>0) then
-                  .[0] |
-                  "- **" + $r + "**: \(.commit.message | split("\n")[0])  \n  [\(.sha[0:7])](\(.html_url)) • \(.commit.author.date | sub("T";" ") | sub("Z";" UTC"))"
-                else empty end
-              ' >> commits.md || true
-            fi
-          done
-
-          if [ ! -f README.md ]; then
-            echo "Error: README.md not found"
-            exit 1
-          fi
-
-          if ! grep -q "<!--RECENT_START-->" README.md || ! grep -q "<!--RECENT_END-->" README.md; then
-            echo "Error: RECENT markers not found in README.md"
-            exit 1
-          fi
-
-          awk '
-            BEGIN{inblock=0}
-            /<!--RECENT_START-->/ {print; system("cat recent.md"); inblock=1; next}
-            /<!--RECENT_END-->/ {inblock=0}
-            /<!--COMMITS_START-->/ {print; system("cat commits.md"); inblock=2; next}
-            /<!--COMMITS_END-->/ {inblock=0}
-            !inblock {print}
-          ' README.md > README.new
-
-          mv README.new README.md
-
-      - name: Commit changes
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit updated statistics
         run: |
-          if [[ -n "$(git status --porcelain README.md)" ]]; then
-            git config user.name "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add README.md
-            git commit -m "chore: auto-update README [skip ci]"
-            git push
-          else
-            echo "No changes."
+          if git diff --quiet -- README.md; then
+            echo "Coding statistics are already current."
+            exit 0
           fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update coding practice stats [skip ci]"
+          git push
