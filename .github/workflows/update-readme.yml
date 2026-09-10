@@ -1,6 +1,11 @@
 name: Update coding practice stats
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/update-readme.yml"
+      - ".github/scripts/**"
   schedule:
     - cron: "17 6 * * *"
   workflow_dispatch:
