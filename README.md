@@ -42,9 +42,9 @@ Infra         Docker · GitHub Actions · Make.com · Proxmox
 
 <!--RECENT_START-->
 Auto-updated from latest public activity.
-- **MindMap** — updated 2026-09-10 02:47:40 UTC  
+- **MindMap** — updated 2026-09-10 05:04:07 UTC  
   [repo](https://github.com/jonnyterrero/MindMap) • ★1 • forks:0
-- **jonnyterrero** — updated 2026-09-10 01:54:29 UTC  
+- **jonnyterrero** — updated 2026-09-10 03:19:39 UTC  
   [repo](https://github.com/jonnyterrero/jonnyterrero) • ★0 • forks:0
 - **Human-Physiology-for-Engineers** — updated 2026-09-09 05:07:47 UTC  
   [repo](https://github.com/jonnyterrero/Human-Physiology-for-Engineers) • ★0 • forks:0
@@ -61,10 +61,10 @@ Auto-updated from latest public activity.
 ### Latest commits
 
 <!--COMMITS_START-->
-- **MindMap**: Merge pull request #4 from jonnyterrero/fix/ml-cron-public-url  
-  [cc69145](https://github.com/jonnyterrero/MindMap/commit/cc691454451d2d10205b591cefa88ce9d393b221) • 2026-09-10 02:47:35 UTC
-- **jonnyterrero**: Update metrics.svg - [Skip GitHub Action]  
-  [fd875a0](https://github.com/jonnyterrero/jonnyterrero/commit/fd875a0aa8d02d177a5846b18931cd3a0ac30d1f) • 2026-09-10 01:54:29 UTC
+- **MindMap**: fix(auth): let Vercel cron reach generate-reports without a session cookie.  
+  [aba3753](https://github.com/jonnyterrero/MindMap/commit/aba3753367e6cd96468989c598b3418eddf4e8ca) • 2026-09-10 05:03:50 UTC
+- **jonnyterrero**: chore: auto-update README [skip ci]  
+  [59ffe79](https://github.com/jonnyterrero/jonnyterrero/commit/59ffe79d6a28d03824d87c3d4c0d301d18c876f8) • 2026-09-10 03:19:38 UTC
 - **Human-Physiology-for-Engineers**: Remove starter Pages workflows; keep visualizations-only deploy  
   [3a5229a](https://github.com/jonnyterrero/Human-Physiology-for-Engineers/commit/3a5229ac87ac4338e6018b7d34fc658ea93b6571) • 2026-09-09 05:07:49 UTC
 - **BME-Visualizations**: Add GitHub Actions workflow for static site deployment  
