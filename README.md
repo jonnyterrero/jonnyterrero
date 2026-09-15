@@ -42,12 +42,12 @@ _Updated daily from public profile and repository data._
 
 | Platform | Progress |
 | --- | --- |
-| [**LeetCode**](https://leetcode.com/u/jterrero16/) | **32 solved** · 11 Easy · 17 Medium · 4 Hard |
-| [**NeetCode**](https://github.com/jonnyterrero/Neetcode-Problems) | **25 problems** · 30 synchronized submissions |
+| [**LeetCode**](https://leetcode.com/u/jterrero16/) | **33 solved** · 11 Easy · 17 Medium · 5 Hard |
+| [**NeetCode**](https://github.com/jonnyterrero/Neetcode-Problems) | **26 problems** · 31 synchronized submissions |
 
-**Recent LeetCode accepts:** [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) · [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) · [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) · [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) · [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+**Recent LeetCode accepts:** [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) · [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) · [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) · [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) · [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
-**Latest NeetCode sync:** Add: eating-bananas - submission-0 · 2026-09-06
+**Latest NeetCode sync:** study: add Divide Two Integers to bit manipulation notebook · 2026-09-15
 <!--CODING_STATS_END-->
 
 ## Technical toolkit
