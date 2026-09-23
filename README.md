@@ -43,11 +43,11 @@ _Updated daily from public profile and repository data._
 | Platform | Progress |
 | --- | --- |
 | [**LeetCode**](https://leetcode.com/u/jterrero16/) | **33 solved** · 11 Easy · 17 Medium · 5 Hard |
-| [**NeetCode**](https://github.com/jonnyterrero/Neetcode-Problems) | **26 problems** · 31 synchronized submissions |
+| [**NeetCode**](https://github.com/jonnyterrero/Neetcode-Problems) | **27 problems** · 32 synchronized submissions |
 
 **Recent LeetCode accepts:** [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) · [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) · [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) · [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) · [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
-**Latest NeetCode sync:** study: add Divide Two Integers to bit manipulation notebook · 2026-09-15
+**Latest NeetCode sync:** Add: find-target-in-rotated-sorted-array - submission-0 · 2026-09-22
 <!--CODING_STATS_END-->
 
 ## Technical toolkit
